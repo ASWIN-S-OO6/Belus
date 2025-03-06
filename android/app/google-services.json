@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "8525751598",
+    "project_id": "belus-24904",
+    "storage_bucket": "belus-24904.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8525751598:android:5926ddfdffaf7134a1c6bf",
+        "android_client_info": {
+          "package_name": "com.nth.belus_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWAJyTRtPOPuCAqVXbLobCRUBU4p0q64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8525751598:android:bea46a39e0bba715a1c6bf",
+        "android_client_info": {
+          "package_name": "com.nth.belus_beta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWAJyTRtPOPuCAqVXbLobCRUBU4p0q64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8525751598:android:598d624586ccfc10a1c6bf",
+        "android_client_info": {
+          "package_name": "com.nth.beluslauncher.belus_launcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWAJyTRtPOPuCAqVXbLobCRUBU4p0q64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
